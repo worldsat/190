@@ -1,0 +1,99 @@
+{
+  
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/cat1.png?alt=media&token=92b36876-c25f-4c87-ae2d-c9c4b6deb5c1",
+      "title": "Benz"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/cat2.png?alt=media&token=1e0933c6-faab-4143-a21b-71a33fa75eac",
+      "title": "BMW"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/cat3.png?alt=media&token=9d7ae1a2-c0de-430f-874c-5c217f05ebe8",
+      "title": "Tesla"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/cat4.png?alt=media&token=cb10b8dc-520c-42f8-8121-0aad2fac1f53",
+      "title": "Mazda"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/cat5.png?alt=media&token=89212fca-5ae6-4117-a106-e6b00a4e9112",
+      "title": "Lexus"
+    },
+    {
+      "id": 5,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/cat6.png?alt=media&token=8f80c0ad-1ce6-4238-88ff-c9fb3b94cd49",
+      "title": "Toyota"
+    }
+  ],
+  "Cars": [
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat.  ",
+      "picUrl":  "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/car1.png?alt=media&token=3645519e-ba89-4591-9270-2a07a54f4032",
+      "EngineOutput":"200 HP",
+      "HighestSpeed":"190 KM/H",
+      "price": 45000,
+      "rating": 4.6,
+      "TotalCapacity":"4 seats",
+      "title": "Tesla Modal 3"
+    },
+{
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat.   ",
+      "picUrl":  "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/car2.png?alt=media&token=9677acf3-925f-429d-a561-3ebc261604f6",
+      "EngineOutput":"210 HP",
+      "HighestSpeed":"180 KM/H",
+      "price": 25000,
+      "rating": 4.4,
+      "TotalCapacity":"5 seats",
+      "title": "Toyota GR86"
+    },
+{
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat.   ",
+      "picUrl":  "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/car3.png?alt=media&token=4e76dbee-a187-4d35-83e3-88f1d267fa94",
+      "EngineOutput":"300 HP",
+      "HighestSpeed":"230 KM/H",
+      "price": 50000,
+      "rating": 4.7,
+      "TotalCapacity":"5 seats",
+      "title": "Porsche 911"
+    },
+{
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat.  ",
+      "picUrl":  "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/car4.png?alt=media&token=8c895c78-6b57-4e41-afda-f509da703417",
+      "EngineOutput":"250 HP",
+      "HighestSpeed":"180 KM/H",
+      "price": 23000,
+      "rating": 4.3,
+      "TotalCapacity":"5 seats",
+      "title": "Jeep Wrangler"
+    },
+{
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat.  ",
+      "picUrl":  "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/car5.png?alt=media&token=ecc348aa-9293-4230-8dd0-2e94b1127ade",
+      "EngineOutput":"150 HP",
+      "HighestSpeed":"170 KM/H",
+      "price": 18500,
+      "rating": 4.6,
+      "TotalCapacity":"6 seats",
+      "title": "Ford Bronco"
+    }
+,
+{
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat.  ",
+      "picUrl":  "https://firebasestorage.googleapis.com/v0/b/project190-31158.appspot.com/o/car6.png?alt=media&token=95ca0970-5e9f-4f2a-8259-41e43a81faa3",
+      "EngineOutput":"150 HP",
+      "HighestSpeed":"180 KM/H",
+      "price": 20000,
+      "rating": 4.2,
+      "TotalCapacity":"4 seats",
+      "title": "Lamborghini Miura"
+    }
+
+  ]
+}
